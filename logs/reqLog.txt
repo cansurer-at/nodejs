@@ -85,3 +85,10 @@
 20230218	22:24:00	7b118ace-1d0d-4055-b6f2-654f066a0fc8	POST	undefined	/employees?firstname=ali&lastname=veli
 20230218	22:25:59	55f1a12b-3153-4de9-9ac2-5a46d0e93ac7	GET	undefined	/index
 20230218	22:25:59	d1f65d1a-74a0-47b1-a85d-ed7e1a2e6cee	GET	undefined	/css/style.css
+20230218	22:30:16	10531eb2-1ba6-4ea3-a635-2fd0e0af2634	GET	undefined	/index
+20230218	22:30:16	8038787c-6edf-4282-a96d-ba806725161a	GET	undefined	/css/style.css
+20230218	22:42:00	fc8d5f20-b272-498a-abf1-06c8515fab13	GET	undefined	/index
+20230218	22:42:00	42a74f69-9d64-451d-82be-9ff786abdf58	GET	undefined	/css/style.css
+20230218	23:03:59	da10099e-3f18-479f-b781-2926a39c7848	POST	undefined	/employees?firstname=ali&lastname=veli
+20230218	23:04:07	13101a01-e8bb-418e-aed8-c529d23837eb	GET	undefined	/employees?firstname=ali&lastname=veli
+20230218	23:05:17	9c0d2fcf-9895-4730-9fe3-bb8fd75b315b	GET	undefined	/employees
