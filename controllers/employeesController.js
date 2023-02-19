@@ -9,12 +9,10 @@ const getAllEmployees = (req, res) => {
 
 const createNewEmployee = (req, res) => {
   const newEmployee = {
-    id: data.employees?.length
-      ? data.employees[data.employees.length - 1].id + 1
-      : 1,
-    firstname: req.body.firstname,
-    lastname: req.body.lastname,
-  };
+      id: data.employees?.length ? data.employees[data.employees.length - 1].id + 1 : 1,
+      firstname: req.body.firstname,
+      lastname: req.body.lastname
+  }
 
   if (!newEmployee.firstname || !newEmployee.lastname) {
       return res.status(400).json({ 'message': 'First and last names are required.' });
