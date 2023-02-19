@@ -92,3 +92,5 @@
 20230218	23:03:59	da10099e-3f18-479f-b781-2926a39c7848	POST	undefined	/employees?firstname=ali&lastname=veli
 20230218	23:04:07	13101a01-e8bb-418e-aed8-c529d23837eb	GET	undefined	/employees?firstname=ali&lastname=veli
 20230218	23:05:17	9c0d2fcf-9895-4730-9fe3-bb8fd75b315b	GET	undefined	/employees
+20230219	19:34:00	d04557f8-fbd1-498c-911d-776262af3d13	POST	undefined	/register
+20230219	19:34:36	42a8111a-0139-4b74-9850-46fa5ee0a694	POST	undefined	/register
