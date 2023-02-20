@@ -165,3 +165,5 @@
 20230220	22:55:26	7fc7bf58-60e7-4719-b186-09a0bfa06356	POST	undefined	/employees
 20230220	22:55:27	875a2a58-888c-4055-93f4-fec55b1d0c4e	POST	undefined	/employees
 20230220	22:55:31	d64b864e-7fb5-4ac0-be3c-db8bc35da573	GET	undefined	/auth
+20230221	00:01:32	5ea7e627-06d7-43c8-b763-f21ba77a96b2	POST	undefined	/register
+20230221	00:02:29	a4113bce-855d-49d8-921c-1bf9ef657e81	POST	undefined	/register
