@@ -22,3 +22,7 @@
 20230218	21:12:22	b5c9de5f-434a-4aa8-a59d-c58da57f78c7	Error : Not allowed by CORS
 20230218	21:12:22	a2fe17cb-7128-4702-af4b-416997a4eca9	Error : Not allowed by CORS
 20230220	22:51:41	42aa6451-8c4d-49d3-91cb-9e9fe5fd081b	TypeError: authHeader?.starsWith is not a function
+20230221	13:36:21	acfef1dd-162d-4808-8075-9695f64ea802	Error: Not allowed by CORS
+20230221	13:36:31	6bc7ca2b-3960-48be-8a1f-3e6df876b4c3	Error: Not allowed by CORS
+20230221	13:37:25	f3004b5f-9cd7-49aa-927f-6afd852045e4	Error: Not allowed by CORS
+20230221	13:38:37	dc15abc6-77b8-4e7f-ba9e-9d10035dfe98	Error: Not allowed by CORS
