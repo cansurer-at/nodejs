@@ -167,3 +167,8 @@
 20230220	22:55:31	d64b864e-7fb5-4ac0-be3c-db8bc35da573	GET	undefined	/auth
 20230221	00:01:32	5ea7e627-06d7-43c8-b763-f21ba77a96b2	POST	undefined	/register
 20230221	00:02:29	a4113bce-855d-49d8-921c-1bf9ef657e81	POST	undefined	/register
+20230221	01:00:57	7cdde4dc-2dfe-4cde-8d6c-68cffeba78d1	POST	undefined	/register
+20230221	01:01:11	f4f9ac24-74c7-4526-ae70-cd0543d43038	POST	undefined	/register
+20230221	01:02:10	e1436d2e-275f-4095-88c2-4d737067fd7e	POST	undefined	/auth
+20230221	01:02:44	bfbc6f67-b5e0-4db9-b9cf-0e53d31c194d	POST	undefined	/auth
+20230221	01:03:10	dd10be8f-89e3-4401-89a2-3789f9befb3d	GET	undefined	/refresh
